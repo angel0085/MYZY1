@@ -452,7 +452,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+      "ext": "aHR0cHM6Ly9yYXcuZ2l0bWlycm9yLmNvbS9hbmdlbDAwODUvTVlaWTEvbWFpbi9hbmdlbC90b2tlbi50eHQ="
     },
     {
       "key": "PanSou",
@@ -462,7 +462,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+      "ext": "aHR0cHM6Ly9yYXcuZ2l0bWlycm9yLmNvbS9hbmdlbDAwODUvTVlaWTEvbWFpbi9hbmdlbC90b2tlbi50eHQ="
     },
     {
       "key": "UpYun",
@@ -472,7 +472,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+      "ext": "aHR0cHM6Ly9yYXcuZ2l0bWlycm9yLmNvbS9hbmdlbDAwODUvTVlaWTEvbWFpbi9hbmdlbC90b2tlbi50eHQ="
     },
     {
       "key": "Zhaozy",
@@ -482,7 +482,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+      "ext": "aHR0cHM6Ly9yYXcuZ2l0bWlycm9yLmNvbS9hbmdlbDAwODUvTVlaWTEvbWFpbi9hbmdlbC90b2tlbi50eHQ="
     }
   ],
   "parses": [
