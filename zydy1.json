@@ -45,8 +45,8 @@
       "key": "直播转点播1",
       "name": "电视直播",
       "type": 3,
-      "api": "./lib/直播转点播.js",
-      "ext": "./lib直播.txt/"
+      "api": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/直播转点播.js",
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/直播.txt"
     },
     {
       "key": "csp_电影先生",
@@ -66,7 +66,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://pan.shangui.cc/f/kyd4fR/vs%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/vs影视.json"
     },
     {
       "key": "csp_午夜",
@@ -76,7 +76,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://pan.shangui.cc/f/mBdeIb/%E5%8D%88%E5%A4%9C%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/午夜影视.json"
     },
     {
       "key": "csp_好戏",
@@ -86,7 +86,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://pan.shangui.cc/f/w58zcg/%E5%A5%BD%E6%88%8F%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/好戏影视.json"
     },
     {
       "key": "csp_低端",
@@ -96,7 +96,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://pan.shangui.cc/f/bwdZU1/%E4%BD%8E%E7%AB%AF%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/低端影视.json"
     },
     {
       "key": "csp_Free",
@@ -106,7 +106,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://pan.shangui.cc/f/Ge6Ysz/Free%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/Free影视.json"
     },
     {
       "key": "csp_热播",
@@ -116,7 +116,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://pan.shangui.cc/f/NKoAtj/%E7%83%AD%E6%92%AD%E4%B9%8B%E5%AE%B6.json"
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/热播之家.json"
     },
     {
       "key": "csp_七月",
@@ -126,7 +126,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://pan.shangui.cc/f/jkdaU7/%E4%B8%83%E6%9C%88%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/七月影视.json"
     },
     {
       "key": "csp_348影视",
@@ -136,7 +136,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://pan.shangui.cc/f/ZY5QSv/348%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/348影视.json"
     },
     {
       "key": "csp_TVB",
@@ -146,7 +146,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://pan.shangui.cc/f/BjmmHp/TVB%E4%BA%91%E6%92%AD.json"
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/TVB云播.json"
     },
     {
       "key": "csp_光棍",
@@ -156,7 +156,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://pan.shangui.cc/f/x0wnsZ/%E5%85%89%E6%A3%8D%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/光棍影视.json"
     },
     {
       "key": "csp_101",
@@ -166,7 +166,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://pan.shangui.cc/f/Emb3SD/101%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/101影视.json"
     },
     {
       "key": "csp_圣城",
@@ -176,7 +176,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://pan.shangui.cc/f/8xpzHo/%E5%9C%A3%E5%9F%8E%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/圣城影视.json"
     },
     {
       "key": "csp_土豪",
@@ -186,7 +186,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://pan.shangui.cc/f/X20yFd/%E5%9C%9F%E8%B1%AA%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/土豪影视.json"
     },
     {
       "key": "csp_YYDS影视",
@@ -196,7 +196,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://pan.shangui.cc/f/yL5JHK/YYDS%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/YYDS影视.json"
     },
     {
       "key": "csp_91",
@@ -206,7 +206,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://pan.shangui.cc/f/ljdpck/91%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/91影视.json"
     },
     {
       "key": "csp_酷茶",
@@ -216,7 +216,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://pan.shangui.cc/f/w58Jug/%E9%85%B7%E8%8C%B6%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/酷茶影视.json"
     },
     {
       "key": "csp_真不卡",
@@ -226,7 +226,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://pan.shangui.cc/f/g2RaCV/%E7%9C%9F%E4%B8%8D%E5%8D%A1%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/真不卡影视.json"
     },
     {
       "key": "csp_xBPQ_66",
@@ -236,7 +236,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://pan.shangui.cc/f/zE7Kh0/66%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/66影视.json"
     },
     {
       "key": "csp_歪片",
@@ -246,7 +246,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://pan.shangui.cc/f/pMkgTL/%E6%AD%AA%E7%89%87%E6%98%9F%E7%90%83.json"
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/歪片星球.json"
     },
     {
       "key": "csp_苹果",
@@ -256,7 +256,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://pan.shangui.cc/f/X205ud/%E8%8B%B9%E6%9E%9C%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/苹果影视.json"
     },
     {
       "key": "csp_米爱",
@@ -266,7 +266,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://pan.shangui.cc/f/aRv4I2/%E7%B1%B3%E7%88%B1%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/米爱影视.json"
     },
     {
       "key": "csp_视觉",
@@ -276,7 +276,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://pan.shangui.cc/f/6j61fp/%E6%96%B0%E8%A7%86%E8%A7%89%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/新视觉影视.json"
     },
     {
       "key": "csp_子子",
@@ -286,7 +286,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://pan.shangui.cc/f/5y5XSA/%E5%AD%90%E5%AD%90%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/子子影视.json"
     },
     {
       "key": "csp_非凡",
@@ -296,7 +296,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://pan.shangui.cc/f/6j6asp/%E9%9D%9E%E5%87%A1%E8%B5%84%E6%BA%90%E7%BD%91.json"
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/非凡资源网.json"
     },
     {
       "key": "csp_量子",
@@ -306,7 +306,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://pan.shangui.cc/f/5y5VCA/%E9%87%8F%E5%AD%90%E8%B5%84%E6%BA%90%E7%BD%91.json"
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/量子资源网.json"
     },
     {
       "key": "360",
@@ -370,7 +370,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://pan.shangui.cc/f/PGMXUK/%E9%9F%B3%E8%8C%83%E7%A3%81%E5%8A%9B.json"
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/音范磁力.json"
     },
     {
       "key": "蚂蚁",
@@ -380,7 +380,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://pan.shangui.cc/f/8xp3co/%E8%9A%82%E8%9A%81%E7%A3%81%E5%8A%9B.json"
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/蚂蚁磁力.json"
     },
     {
       "key": "火狐",
@@ -462,7 +462,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://pan.shangui.cc/f/VnDNt8/%E7%8E%A9%E5%81%B6%E5%93%A5%E5%93%A5.json"
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/玩偶哥哥.json"
     },
     {
       "key": "UpYun",
