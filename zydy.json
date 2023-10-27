@@ -49,6 +49,16 @@
       "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/vs影视.json"
     },
     {
+      "key": "csp_麻衣呀呼",
+      "name": "麻衣呀呼",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/麻衣呀呼.json"
+    },
+    {
       "key": "csp_午夜",
       "name": "午夜影视",
       "type": 3,
