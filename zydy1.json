@@ -32,6 +32,16 @@
       "ext": "aHR0cHM6Ly9yYXcuZ2l0bWlycm9yLmNvbS9hbmdlbDAwODUvTVlaWTEvbWFpbi9hbmdlbC90b2tlbi50eHQ="
     },
     {
+      "key": "PanSearch",
+      "name": "盘Se搜索",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
+    },
+    {
       "key": "PanSou",
       "name": "🔍阿里|盘搜索",
       "type": 3,
