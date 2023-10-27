@@ -413,7 +413,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "./lib/OpenSpider.jar"
+      "jar": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/OpenSpider.jar"
     },
     {
       "key": "push_agent",
