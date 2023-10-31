@@ -49,16 +49,6 @@
       "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/直播.txt"
     },
     {
-      "key": "csp_FanYY",
-      "name": "┃玩偶┃影视",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/angel/token.txt$$$https://wogg.xyz/"
-    },
-    {
       "key": "csp_电影先生",
       "name": "电影先生",
       "type": 3,
