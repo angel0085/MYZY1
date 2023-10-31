@@ -468,11 +468,11 @@
       "key": "Wogg",
       "name": "玩偶哥哥",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/玩偶哥哥.json"
+      "filterable": 1,
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/angel/token.txt$$$https://wogg.xyz/"
     },
     {
       "key": "UpYun",
@@ -482,7 +482,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "aHR0cHM6Ly9yYXcuZ2l0bWlycm9yLmNvbS9hbmdlbDAwODUvTVlaWTEvbWFpbi9hbmdlbC90b2tlbi50eHQ="
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/angel/token.txt"
     },
     {
       "key": "Zhaozy",
@@ -492,7 +492,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "aHR0cHM6Ly9yYXcuZ2l0bWlycm9yLmNvbS9hbmdlbDAwODUvTVlaWTEvbWFpbi9hbmdlbC90b2tlbi50eHQ="
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/angel/token.txt"
     }
   ],
   "parses": [
