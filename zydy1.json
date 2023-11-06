@@ -467,6 +467,66 @@
       "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/angel/token.txt"
     },
     {
+      "key": "YiSo",
+      "name": "易搜,搜索",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/angel/token.txt"
+    },
+    {
+      "key": "Zhaozy",
+      "name": "找资源,搜索",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/angel/token.txt"
+    },
+    {
+      "key": "PanSou",
+      "name": "盘搜,搜索",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/angel/token.txt"
+    },
+    {
+      "key": "UpYun",
+      "name": "Up搜,搜索",
+      "type": 3,
+      "api": "csp_UpYun",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/angel/token.txt"
+    },
+    {
+      "key": "PanSearch",
+      "name": "盘Se,搜索",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/angel/token.txt"
+    },
+    {
+      "key": "七夜",
+      "name": "七夜,搜索",
+      "type": 3,
+      "api": "csp_Dovx",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/angel/token.txt"
+    },
+    {
       "key": "UpYun",
       "name": "🔍阿里|优盘搜",
       "type": 3,
