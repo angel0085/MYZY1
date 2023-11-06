@@ -457,16 +457,6 @@
       "ext": "b4242bebe6f144d3aa6a2cd842ac65aa"
     },
     {
-      "key": "玩偶哥哥",
-      "name": "玩偶哥哥┃4K弹幕",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/angel/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
-    },
-    {
       "key": "UpYun",
       "name": "阿里|优盘搜",
       "type": 3,
