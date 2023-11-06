@@ -456,8 +456,16 @@
       "filterable": 0,
       "ext": "b4242bebe6f144d3aa6a2cd842ac65aa"
     },
-    {"key":"csp_WoGG","name":"玩偶影视4K","type":3,"api":"csp_WoGG","searchable":1,
-      "quickSearch":1,"filterable":1,"ext":"https://raw.gitmirror.com/angel0085/MYZY1/main/angel/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/","jar":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar"},
+    {
+      "key": "玩偶哥哥",
+      "name": "玩偶哥哥┃4K弹幕",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/angel/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+    },
     {
       "key": "UpYun",
       "name": "阿里|优盘搜",
