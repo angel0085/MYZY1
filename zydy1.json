@@ -361,8 +361,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "playerType": "1",
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/jp.js"
+      "api": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/drpy2.min.js",
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/jp.js"
     },
     {
       "key": "音范",
