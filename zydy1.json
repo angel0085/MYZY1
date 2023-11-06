@@ -354,13 +354,15 @@
       "changeable": 1
     },
     {
-      "key": "荐片",
-      "name": "荐片秒播",
+      "key": "贱贱",
+      "name": "荐片",
       "type": 3,
-      "api": "csp_RinHome",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "changeable": 1,
+      "playerType": "1",
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/jp.js"
     },
     {
       "key": "音范",
