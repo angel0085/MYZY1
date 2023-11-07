@@ -98,6 +98,206 @@
       "filterable": 1,
       "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/好戏影视.json"
     },
+     {
+      "key": "csp_xBPQ_玖八",
+      "name": "玖八影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/98影视.json"
+    },
+{
+      "key": "csp_爱看",
+      "name": "爱看影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/爱看影视.json"
+    },
+{
+      "key": "csp_超前",
+      "name": "超前点播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/超前B站.json"
+    },
+ {
+      "key": "csp_达龟",
+      "name": "达龟影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/达达龟影视.json"
+    },
+ {
+      "key": "csp_师兄",
+      "name": "师兄影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/大师兄影视.json"
+    },
+ {
+      "key": "csp_蛋蛋",
+      "name": "蛋蛋影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/蛋蛋影视.json"
+    },
+{
+      "key": "csp_短剧",
+      "name": "刷刷短剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/短剧网.json"
+    },
+ {
+      "key": "csp_疯狗",
+      "name": "疯狗影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/疯狗影视.json"
+    },
+{
+      "key": "csp_黑狐",
+      "name": "黑狐影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/黑狐影视.json"
+    },
+{
+      "key": "csp_花猫",
+      "name": "花猫影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/花猫影视.json"
+    },
+ {
+      "key": "csp_乐猪",
+      "name": "乐猪影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/乐猪影视.json"
+    },
+{
+      "key": "csp_农民",
+      "name": "农民影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/农民影视.json"
+    },
+{
+      "key": "csp_七年",
+      "name": "七年影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/七年影视.json"
+    },
+ {
+      "key": "csp_七新",
+      "name": "七新影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/七新影视.json"
+    },
+ {
+      "key": "csp_xBPQ_奇优",
+      "name": "奇优影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/奇优影视.json"
+    },
+{
+      "key": "csp_骚火",
+      "name": "骚火影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/骚火影视.json"
+    },
+ {
+      "key": "csp_万达",
+      "name": "万达影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/万达影视.json"
+    },
+ {
+      "key": "csp_午舞",
+      "name": "午舞影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/五五影视.json"
+    },
+ {
+      "key": "csp_小鹿",
+      "name": "小鹿影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/小鹿影视.json"
+    },
+{
+      "key": "csp_星辰",
+      "name": "星辰影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/星辰影视.json"
+    },
     {
       "key": "csp_低端",
       "name": "低端影视",
