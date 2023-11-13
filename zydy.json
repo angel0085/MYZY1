@@ -23,7 +23,7 @@
     },
     {
       "key": "Gitcafe",
-      "name": "阿里|纸条搜",
+      "name": "阿里🔥纸条搜",
       "type": 3,
       "api": "csp_Paper",
       "searchable": 1,
@@ -33,7 +33,7 @@
     },
     {
       "key": "PanSou",
-      "name": "阿里|盘搜索",
+      "name": "阿里🔥盘搜索",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
@@ -60,7 +60,7 @@
     },
     {
       "key": "Wogg",
-      "name": "玩偶哥哥",
+      "name": "🔥玩偶哥哥🔥",
       "type": 3,
       "api": "csp_XPathAli",
       "searchable": 1,
@@ -637,7 +637,7 @@
     },
     {
       "key": "yqkan_open",
-      "name": "影视|一起看",
+      "name": "影视一起看",
       "type": 3,
       "api": "csp_YQKan",
       "searchable": 1,
@@ -666,7 +666,7 @@
     },
     {
       "key": "UpYun",
-      "name": "阿里|优盘搜",
+      "name": "阿里🔥优盘搜",
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
@@ -676,7 +676,7 @@
     },
     {
       "key": "Zhaozy",
-      "name": "阿里|找资源",
+      "name": "阿里🔥找资源",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
