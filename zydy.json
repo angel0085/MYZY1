@@ -5,7 +5,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://pan.shangui.cc/f/ljJlSk/live.txt",
+      "url": "https://raw.gitmirror.com/angel0085/MYZY1/main/lib/live.txt",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
     }
   ],
