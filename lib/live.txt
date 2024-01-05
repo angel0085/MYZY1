@@ -1,4 +1,4 @@
-从此无直播_12834377,#genre#
+从此无直播,#genre#
 从此无直播1_12834377,#genre#
 CCTV1,http://60.255.120.30:89/live2/live2.m3u8
 CCTV1,http://221.213.43.82:8888/newlive/live/hls/2/live.m3u8
